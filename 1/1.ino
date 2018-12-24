@@ -1,4 +1,6 @@
 String one_string = "1";
+String two_string = "2";
+String three_string = "3";
 
 void setup() {
   

@@ -4,11 +4,11 @@
       Serial.println("Number one is on.");
       }
       
-      else if(num.equals("2")){
+      else if(num.equals(two_string)){
       Serial.println("Number two is on.");
       }
       
-      else if(num.equals("3")){
+      else if(num.equals(three_string)){
       Serial.println("Number three is on.");
       }
  }
