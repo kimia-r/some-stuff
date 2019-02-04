@@ -1,0 +1,5 @@
+High Voltage Relay:
+https://howtomechatronics.com/tutorials/arduino/control-high-voltage-devices-arduino-relay-tutorial/
+
+HC-05 Bluetooth Module:
+https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-05-bluetooth-module-tutorial/
